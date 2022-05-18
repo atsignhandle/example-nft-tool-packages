@@ -8,6 +8,10 @@ each project contains the sample assets, required folder structure, minimum asse
 
 this folder contains an example of how each project type is presented when embedded in a token.
 
+#### project-config JSON
+
+a template full project-config JSON and txt format with both the minimum required settings and all the possible settings for each type of project. while it may seem overwhelming, we expect that you will simply locate the project type most aligned with your goals and copy the directory entirely. the most common projects have been specifically streamlined to be a simple as possible, however, having a full suite of features does come with advanced configuration options.
+
 #### project types
 
 -   membership-pass
