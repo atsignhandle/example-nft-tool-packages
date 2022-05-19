@@ -1,0 +1,153 @@
+{
+    "collections": [
+        {
+            "name": "bridges-album",
+            "type": "music",
+            "project": "@meowdao",
+            "description": "oshi",
+            "collection_logo": "",
+            "default_image": "",
+            "banner_logo": "",
+            "category": "Music",
+            "twitter": "@meowsdao",
+            "external_link": "https://yoursite.io/stuff/111",
+            "discord": "https://discord.gg/meowsdao",
+            "instagram": "@instagram_name",
+            "medium": "@medium_handle",
+            "royalty": 5,
+            "default_color": "#57fcd5",
+            "custom_layout": "",
+            "folder": "bridges-album"
+        },
+        {
+            "name": "bridges-single",
+            "type": "music",
+            "project": "@meowdao",
+            "description": "cats",
+            "collection_logo": "",
+            "default_image": "",
+            "banner_logo": "",
+            "category": "Music",
+            "twitter": "@meowsdao",
+            "external_link": "https://yoursite.io/stuff/111",
+            "discord": "https://discord.gg/meowsdao",
+            "instagram": "@instagram_name",
+            "medium": "@medium_handle",
+            "royalty": 5,
+            "default_color": "#57fcd5",
+            "custom_layout": "",
+            "folder": "bridges-single"
+        },
+        {
+            "name": "meow-meow-single",
+            "type": "music",
+            "project": "@meowdao",
+            "description": "cats",
+            "collection_logo": "",
+            "default_image": "",
+            "banner_logo": "",
+            "category": "Music",
+            "twitter": "@meowsdao",
+            "external_link": "https://yoursite.io/stuff/111",
+            "discord": "https://discord.gg/meowsdao",
+            "instagram": "@instagram_name",
+            "medium": "@medium_handle",
+            "royalty": 5,
+            "default_color": "#57fcd5",
+            "custom_layout": "",
+            "folder": "meow-meow-single"
+        }
+    ],
+    "resume_folder": "",
+    "upload_images_to_ipfs": true,
+    "upload_metadata_to_ipfs": true,
+    "excluded_layers_from_metadata": [],
+    "shuffle_assets": false,
+    "re_generate_collages": false,
+    "re_generate_metadata_cid": true,
+    "metadata_file_extension": false,
+    "hide_rarity_names": true,
+    "rotated_images_allowed": 0,
+    "mirror_images_allowed": 0,
+    "name": "",
+    "symbol": "JBX-",
+    "total_supply": 10,
+    "metadata_outputs": [
+        {
+            "type": "ethereum",
+            "mint_pricing": {
+                "type": "fixed",
+                "value": 1
+            }
+        }
+    ],
+    "include_total_population_in_name": true,
+    "birthdate": "",
+    "minter": "tankbottoms.eth",
+    "creators": [
+        "@WagmiStudios"
+    ],
+    "publishers": [
+        "@WagmiStudios"
+    ],
+    "genres": [
+        "Banny",
+        "banana"
+    ],
+    "tags": [
+        "ETH"
+    ],
+    "drop_date": "",
+    "rights": "© 2022 JuiceBox DAO, WAGMI Studios.xyz, All rights reserved.",
+    "decimals": 0,
+    "generation": 0,
+    "edition": 0,
+    "items": [
+        {
+            "name": "bridges-oshi-610.wav",
+            "description": "oshi",
+            "external_link": "https://yoursite.io/stuff/111",
+            "collection": "bridges-album",
+            "file_name": "bridges-oshi-610.wav",
+            "output_resolution": "1000x1000",
+            "properties": [],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": false,
+            "explicit_content": false,
+            "freeze_metadata": false,
+            "preview_image": "cover-art.png"
+        },
+        {
+            "name": "oshi-610.mp3",
+            "description": "oshi",
+            "external_link": "https://yoursite.io/stuff/111",
+            "collection": "bridges-single",
+            "file_name": "oshi-610.mp3",
+            "output_resolution": "1000x1000",
+            "properties": [],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": false,
+            "explicit_content": false,
+            "freeze_metadata": false,
+            "preview_image": "cover-art.png"
+        },
+        {
+            "name": "meow-meow-m4a",
+            "description": "oshi",
+            "external_link": "https://yoursite.io/stuff/111",
+            "collection": "meow-meow-single",
+            "file_name": "meow-meow-m4a",
+            "output_resolution": "1000x1000",
+            "properties": [],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": false,
+            "explicit_content": false,
+            "freeze_metadata": false,
+            "preview_image": "meow-meow.png"
+        }
+    ],
+    "items_file": ""
+}

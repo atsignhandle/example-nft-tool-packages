@@ -1,15 +1,15 @@
 {
     "collections": [
         {
-            "name": "banny",
-            "type": "image",
+            "name": "bannyverse-mint-pass",
+            "type": "music",
             "project": "@bannyverse",
             "description": "bananappeals",
             "collection_logo": "",
-            "default_image": "profile.gif",
+            "default_image": "",
             "banner_logo": "",
-            "category": "Art",
-            "twitter": "@bannyverse",
+            "category": "Music",
+            "twitter": "@meowsdao",
             "external_link": "https://yoursite.io/stuff/111",
             "discord": "https://discord.gg/meowsdao",
             "instagram": "@instagram_name",
@@ -17,7 +17,7 @@
             "royalty": 5,
             "default_color": "#57fcd5",
             "custom_layout": "",
-            "folder": "bannyverse"
+            "folder": "bannyverse-mint-pass"
         }
     ],
     "resume_folder": "",
@@ -31,7 +31,7 @@
     "hide_rarity_names": true,
     "rotated_images_allowed": 0,
     "mirror_images_allowed": 0,
-    "name": "banny",
+    "name": "bannyverse-mint-pass",
     "symbol": "JBX-",
     "total_supply": 10,
     "metadata_outputs": [
@@ -54,9 +54,7 @@
     ],
     "genres": [
         "Banny",
-        "bananas",
-        "character",
-        "profile"
+        "banana"
     ],
     "tags": [
         "ETH"
@@ -66,12 +64,22 @@
     "decimals": 0,
     "generation": 0,
     "edition": 0,
-    "items": [],
-    "items_file": "bannyverse.csv",
-    "collage_outputs": [
-        "collage1600",
-        "collageOpenSea1200x75",
-        "collageDiscord600x240",
-        "collageTwitter1200x675"
-    ]
+    "items": [
+        {
+            "name": "never-going-to-give-you-up.mp3",
+            "description": "timely reference",
+            "external_link": "https://yoursite.io/stuff/111",
+            "collection": "bannyverse-mint-pass",
+            "file_name": "never-going-to-give-you-up.mp3",
+            "output_resolution": "1000x1000",
+            "properties": [],
+            "levels": [],
+            "stats": [],
+            "unlockable_content": false,
+            "explicit_content": false,
+            "freeze_metadata": false,
+            "preview_image": "admit-one.png"
+        }
+    ],
+    "items_file": ""
 }

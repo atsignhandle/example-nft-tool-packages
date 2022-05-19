@@ -1,22 +1,25 @@
 {
-    "collection": {
-        "name": "meow",
-        "type": "PFP",
-        "project": "@meowsdao",
-        "description": "a bunch of cats",
-        "collection_logo": "",
-        "default_image": "profile.gif",
-        "banner_logo": "banner.png",
-        "category": "Art",
-        "twitter": "@meowsdao",
-        "external_link": "https://yoursite.io/stuff/111",
-        "discord": "https://discord.gg/meowsdao",
-        "instagram": "@instagram_name",
-        "medium": "@medium_handle",
-        "royalty": 5,
-        "default_color": "#57fcd5",
-        "custom_layout": ""
-    },
+    "collections": [
+        {
+            "name": "meow",
+            "type": "PFP",
+            "project": "@meowsdao",
+            "description": "a bunch of cats",
+            "collection_logo": "",
+            "default_image": "profile.gif",
+            "banner_logo": "banner.png",
+            "category": "Art",
+            "twitter": "@meowsdao",
+            "external_link": "https://yoursite.io/stuff/111",
+            "discord": "https://discord.gg/meowsdao",
+            "instagram": "@instagram_name",
+            "medium": "@medium_handle",
+            "royalty": 5,
+            "default_color": "#57fcd5",
+            "custom_layout": "",
+            "folder": "population-meowsdao"
+        }
+    ],
     "resume_folder": "",
     "upload_images_to_ipfs": true,
     "upload_metadata_to_ipfs": true,
@@ -65,7 +68,6 @@
     "edition": 0,
     "items": [],
     "items_file": "",
-    "items_folder": "population-meowsdao",
     "image_outputs": [
         {
             "width": 350,
