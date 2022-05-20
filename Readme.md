@@ -17,6 +17,8 @@ simple as possible, however, having a full suite of features does come with adva
 
 likely to be in a separate repo but of note is the ability to include custom contract components which resolve a few expected activities i.e. pricing resolver which computes some pricing based on the token's current supply and tokenUriResolver which renders the token or otherwise controls the token's URI.
 
+the first template framework is currently the tiles-on-chain contract rewrite which employs a custom tokenUri to render the tile, and a pricing resolver which both computes the supply based pricing and a merkle-root based price, i.e. existing tiles owners do not pay for new tiles. however additional examples are contemplated, i.e. nft which holds financial assets such as stETH, and tokenized carbon credits.
+
 #### template projects
 
 certain NFT projects likely will fall under a specific goal or activity, i.e. create project token, create membership passes, such activities should have a template and workflow which are hyper optimized to delivery on the promise of simplicity.
